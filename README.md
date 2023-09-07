@@ -20,7 +20,7 @@ printing(table): Prints the current state of the TicTacToe board.
 showBoard(): Displays the positions on the board with numbers for reference.
 ai(table): Implements the AI's random move by selecting an available position.
 winning(table): Checks for a win condition (three characters in a row for "O" or "X").
-draw(table): Checks if the game has ended in a draw due to a full board.
+draw(table): Draws a empty board.
 game(table): Main game loop that allows players to take turns and checks for win/draw conditions.
 Customize and Improve
 Feel free to modify and enhance the game to add more features, improve AI logic, or create a graphical interface. Some possible improvements include:
